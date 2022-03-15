@@ -1,0 +1,2 @@
+# SFS-Project
+A coursework project for the year 2 University of Nottingham class "Software Specification". I was tasked with creating 5 deliverables for a choice of 2 scenarios. The scenario i chose was a mobile app for a university wellfare team to help students manage anxiesty and stress. The deliverables for the project were: Vision and Scope document, Use Case Analysis document, Software Requirements Specification, Prototype Creation and finally a pitch video. All documentation was completed in LaTeX and the protoype was made in Adobe XD.
